@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0310666-2980-4ed0-ac51-372711ad7259" name="Default" comment="" />
+    <list default="true" id="d0310666-2980-4ed0-ac51-372711ad7259" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="myproject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -35,8 +37,8 @@
       <file leaf-file-name="jarallax.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/jarallax/jarallax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4886562">
-              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.8551483">
+              <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -172,7 +174,7 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/dargh" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -227,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/jarallax/jarallax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4886562">
-          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.8551483">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
